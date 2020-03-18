@@ -1,5 +1,5 @@
 @echo on
-call :sub > "%userprofile%\Desktop\Mediolanum-info-out-local-user.txt"
+call :sub > "%userprofile%\Desktop\PC-info-out-local-user.txt"
 exit /b
 
 :sub
